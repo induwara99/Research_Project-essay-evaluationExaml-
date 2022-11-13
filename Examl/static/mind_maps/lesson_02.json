@@ -1,0 +1,80 @@
+[
+  {
+    "name": "lesson_02",
+    "type": "directory",
+    "children": [
+      {
+        "name": "Chapter 04",
+        "type": "directory",
+        "children": [
+          {
+            "name": "two",
+            "type": "file"
+          },
+          {
+            "name": "forces",
+            "type": "file"
+          },
+          {
+            "name": "force",
+            "type": "file"
+          },
+          {
+            "name": "resultant",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 03",
+        "type": "directory",
+        "children": [
+          {
+            "name": "living",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 02",
+        "type": "directory",
+        "children": [
+          {
+            "name": "mass",
+            "type": "file"
+          },
+          {
+            "name": "relative",
+            "type": "file"
+          },
+          {
+            "name": "atomic",
+            "type": "file"
+          },
+          {
+            "name": "atom",
+            "type": "file"
+          },
+          {
+            "name": "molecular",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 01",
+        "type": "directory",
+        "children": [
+          {
+            "name": "cell",
+            "type": "file"
+          },
+          {
+            "name": "cells",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  }
+]

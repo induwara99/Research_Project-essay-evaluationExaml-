@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Give a brief description about gene",
+      "correct_answer": "A is a basic unit of heredity and a sequence of nucleotides in DNA or RNA that encodes the synthesis of a gene product, either RNA or protein. During gene expression, the DNA is first copied into RNA."
+    },
+    {
+      "question_number": 2,
+      "question": "What is the process of human digestive system?",
+      "correct_answer": "The processes of digestion include six activities: ingestion, propulsion, mechanical or physical digestion, chemical digestion, absorption, and defecation. The first of these processes, ingestion, refers to the entry of food into the alimentary canal through the mouth."
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The fundamental structural and functional unit of life is the",
+      "answers": [
+        "cell",
+        "tissue",
+        "organ",
+        "system"
+      ],
+      "correct_answer": "cell",
+      "related_lesson": "characteristics of organisms"
+    },
+    {
+      "question_number": 2,
+      "question": "What is the pair of subatomic particles which attract each other?",
+      "answers": [
+        "electrons and neutrons",
+        "electrons and protons",
+        "protons and neutrons",
+        "electrons and electrons"
+      ],
+      "correct_answer": "electrons and electrons",
+      "related_lesson": "Structure of matter"
+    },
+    {
+      "question_number": 3,
+      "question": "03.  The unit of momentum is",
+      "answers": [
+        "kgm s-1",
+        "kgm s-2",
+        "kg m-1s-1",
+        "kg m2s-2"
+      ],
+      "correct_answer": "kgm s-1",
+      "related_lesson": "Newton's laws of motion"
+    },
+    {
+      "question_number": 4,
+      "question": "Which of the following is the molecule with highest number of covalent bonds?",
+      "answers": [
+        "O2",
+        "N2",
+        "NH3",
+        "CO2"
+      ],
+      "correct_answer": "O2",
+      "related_lesson": "chemical bonds"
+    },
+    {
+      "question_number": 5,
+      "question": "Heat is transmitted from the Sun to the Earth by",
+      "answers": [
+        "radiation",
+        "conduction",
+        "convection",
+        "radiation and convection"
+      ],
+      "correct_answer": "radiation",
+      "related_lesson": "Heat"
+    },
+    {
+      "question_number": 6,
+      "question": "07.  As was extracted by a student from an environmental pyramid, that ecosystem has one producer, eight primary consumers and twenty-three secondary consumers. The student has extracted this information from a",
+      "answers": [
+        "upright number pyramid",
+        "inverted number pyramid",
+        "upright biomass pyramid",
+        "inverted biomass pyramid"
+      ],
+      "correct_answer": "inverted number pyramid",
+      "related_lesson": "Biosphere"
+    },
+    {
+      "question_number": 7,
+      "question": "Which statement is always true about the magnitude of displacement of a certain object?",
+      "answers": [
+        "greater than the distance moved",
+        "equal to the distance moved",
+        "lesser than the distance moved",
+        "either equal to or less than the distance moved"
+      ],
+      "correct_answer": "either equal to or less than the distance moved",
+      "related_lesson": "Motion in a straight line"
+    },
+    {
+      "question_number": 8,
+      "question": "The electronic configurations of the atoms of two elements X and Y are 2,8, 1 and 2, 8,7 respectively. Of the following statements about the pair of those elements, which statement is false?",
+      "answers": [
+        "located in the same period in the Periodic Table",
+        "located in the same group in the Periodic Table",
+        "chemically combine forming ionic bonds",
+        "combine and form the compound with the chemical formula XY"
+      ],
+      "correct_answer": "located in the same group in the Periodic Table",
+      "related_lesson": "Structure of matter"
+    },
+    {
+      "question_number": 9,
+      "question": "What is the number of O, molecules contained in 64 g of oxygen gas? (O = 16)",
+      "answers": [
+        "6.022 x 10^23",
+        "2 x 6.022x10 ^23",
+        "4 x 6022x10^ 23",
+        "64x 602210^ 23"
+      ],
+      "correct_answer": "2 x 6.022x10 ^23",
+      "related_lesson": "Quantification of elements and compounds"
+    },
+    {
+      "question_number": 10,
+      "question": "The substances acting as the main components providing energy for the functioning of the human body are",
+      "answers": [
+        "proteins and lipids",
+        "proteins and vitamins",
+        "carbohydrates and lipids",
+        "carbohydrates and proteins"
+      ],
+      "correct_answer": "carbohydrates and lipids",
+      "related_lesson": "Chemical basis of life"
+    },
+    {
+      "question_number": 11,
+      "question": "A person’s glucose level in the blood has increased above the optimum level. Which of the following food items should he consume minimally?",
+      "answers": [
+        "meat",
+        "milk",
+        "green gram (mung/payaru)",
+        "bread"
+      ],
+      "correct_answer": "bread",
+      "related_lesson": "Chemical basis of life"
+    },
+    {
+      "question_number": 12,
+      "question": "Select the false statement about nucleic acids.",
+      "answers": [
+        "building unit is called nucleotide",
+        "a natural polymer",
+        "store hereditory information",
+        "contain the elements C,H, O and N only"
+      ],
+      "correct_answer": "contain the elements C,H, O and N only",
+      "related_lesson": "Chemical basis of life"
+    },
+    {
+      "question_number": 13,
+      "question": "Examples for the seeds/fruits dispersed by water, wind and explosive mechanism respectively are",
+      "answers": [
+        "Ceylon almond(kottamba/kaththappu), hora and mango",
+        "lotus, castor (endaru/amanakku) and rubber",
+        "coconut, milkweed (vara/erukkalai) and rubber",
+        "jack, cotton and okra (bandakka/vendi)"
+      ],
+      "correct_answer": "coconut, milkweed (vara/erukkalai) and rubber",
+      "related_lesson": "Continuity of life"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following does not pass into the foetus from the mother through the umbilical cord?",
+      "answers": [
+        "blood",
+        "nutrients",
+        "oxygen",
+        "pathogens"
+      ],
+      "correct_answer": "blood",
+      "related_lesson": "Continuity of life"
+    },
+    {
+      "question_number": 15,
+      "question": "An athlete finishing a running event suffered from a cramp in his leg. What is the chemical compound which is produced in muscle cells causing the cramp?",
+      "answers": [
+        "carbon dioxide",
+        "ethyl alcohol",
+        "lactic acid",
+        "acetic acid"
+      ],
+      "correct_answer": "lactic acid",
+      "related_lesson": "Biological processes in human body"
+    },
+    {
+      "question_number": 16,
+      "question": "A warm-blooded (homoeothermic) animal and a cold-blood (poikilothermic) animal respectively are",
+      "answers": [
+        "pigeon and frog",
+        "bear and rat",
+        "rat snake and whale",
+        "crocodile and tortoise"
+      ],
+      "correct_answer": "pigeon and frog",
+      "related_lesson": "The world of life"
+    },
+    {
+      "question_number": 17,
+      "question": "What is the metal that reacts with hot water but not with cold water?",
+      "answers": [
+        "sodium",
+        "magnesium",
+        "aluminium",
+        "calcium"
+      ],
+      "correct_answer": "magnesium",
+      "related_lesson": "Structure of matter"
+    },
+    {
+      "question_number": 18,
+      "question": "What is the correct statement about the Covid-19 virus?",
+      "answers": [
+        "can be observed by the optical microscope",
+        "carries out metabolic activities",
+        "bears a nucleus with DNA",
+        "shows living as well as non-living characteristics"
+      ],
+      "correct_answer": "shows living as well as non-living characteristics",
+      "related_lesson": "characteristics of organisms"
+    },
+    {
+      "question_number": 19,
+      "question": "When salt is extracted from sea water in a saltern, what is the compound that precipitates along with NaCl?",
+      "answers": [
+        "Na2SO4",
+        "MgCl2",
+        "CaCO3",
+        "CaSO4"
+      ],
+      "correct_answer": "MgCl2",
+      "related_lesson": "Mixtures"
+    },
+    {
+      "question_number": 20,
+      "question": "The maximum upthrust exerted by water on a certain object is less than the weight of the object. Then, the object will",
+      "answers": [
+        "float on the water surface",
+        "float partly immersed in water",
+        "float fully immersed in water",
+        "sink fully in water"
+      ],
+      "correct_answer": "kg m-2 s-2",
+      "related_lesson": "unit"
+    },
+    {
+      "question_number": 21,
+      "question": "What is the part common to the human digestive system and the human respiratory system?",
+      "answers": [
+        "mouth",
+        "oesophagus",
+        "pharynx",
+        "larynx"
+      ],
+      "correct_answer": "pharynx",
+      "related_lesson": "Biologica processes in human body"
+    },
+    {
+      "question_number": 22,
+      "question": "What is the mole fraction of O2 in a mixture containing 96g of oxygen gas (O2) and 56g of nitrogen gas (N2)? (N=14, O=16)",
+      "answers": [
+        "1/5",
+        "2/5",
+        "3/5",
+        "4/5"
+      ],
+      "correct_answer": "3/5",
+      "related_lesson": "Mixtures"
+    },
+    {
+      "question_number": 23,
+      "question": "Given below are four ways by which zinc metal and hydrochloric acid were reacted at room temperature. In which way is hydrogen gas liberated with the highest speed?",
+      "answers": [
+        "zine granules + dilute hydrochloric",
+        "zinc granules + concentrated hydrochloric",
+        "zinc powder + dilute hydrochloric",
+        "zinc powder + concentrated hydrochloric"
+      ],
+      "correct_answer": "zinc powder + concentrated hydrochloric",
+      "related_lesson": "Rate of reactions"
+    },
+    {
+      "question_number": 24,
+      "question": "Between a strong acid and a strong base,",
+      "answers": [
+        "an exothermic neutralization reaction occurs",
+        "an endothermic neutralization reaction occurs",
+        "an exothermic combination reaction occurs",
+        "an endothermic combination reaction occurs"
+      ],
+      "correct_answer": "an exothermic neutralization reaction occurs",
+      "related_lesson": "Heat changes associated with chemical reactions"
+    },
+    {
+      "question_number": 25,
+      "question": "Consider the following statements presented regarding natural rubber.  A - It is a linear polymer. B - Isoprene is the monomer C - There are cross links among the chains Of these statements ",
+      "answers": [
+        "only A is true",
+        "only A and B are true",
+        "only B and C are true",
+        "only A and C are true"
+      ],
+      "correct_answer": "only A and B are true",
+      "related_lesson": "Hydrocarbons and their derivatives"
+    },
+    {
+      "question_number": 26,
+      "question": "A 4N force and a 3 N force are applied on an object at the same instance. Consider the following statements given about the magnitude of the resultant obtainable at that occasion. A - The maximum magnitude of the resultant obtainable is 7 N. B - The minimum magnitude of the resultant obtainable is 1 N. C - The magnitude of the resultant obtainable is always 5 N. Of the above, the correct statement(s) is / are ",
+      "answers": [
+        "only A",
+        "only B",
+        "only C",
+        "only A and B"
+      ],
+      "correct_answer": "only A and B",
+      "related_lesson": "resultant force"
+    },
+    {
+      "question_number": 27,
+      "question": "Consider the following statements. A - Biomagnification occurs along a food chain. B - Toxic chemical pollutants concentrate more in the upper trophic levels of a food chain. Of the above statements,",
+      "answers": [
+        "both A and B are true",
+        "A is true while B is false",
+        "A is false while B is true",
+        "both A and B are false"
+      ],
+      "correct_answer": "both A and B are true",
+      "related_lesson": "Biosphere"
+    },
+    {
+      "question_number": 28,
+      "question": "A statement displayed on aboard near a tank is 'It is you who turned the water in this tank green'. Which of the following human activities in connection with the tank would have contributed most to the change mentioned on the board? ",
+      "answers": [
+        "clearing the area above the tank",
+        "increase in algae population due to fishing",
+        "accumulation of oil and grease due to vehicle wash",
+        "addition of faecal and excretory matter to the water"
+      ],
+      "correct_answer": "addition of faecal and excretory matter to the water",
+      "related_lesson": "Biosphere"
+    }
+  ]
+}

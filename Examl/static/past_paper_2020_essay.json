@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is the function of Oestrogen in the female reproductive system?",
+      "correct_answer": "Oestrogen is the primary female sex hormone. It is responsible for the development and regulation of the female reproductive system and secondary sex characteristics."
+    },
+    {
+      "question_number": 2,
+      "question": "Describe the process of human heart.",
+      "correct_answer": "The heart pumps blood with a rhythm determined by a group of pacemaker’s cells in the sinoatrial node. These generate a current that causes the heart to contract, traveling through the atrioventricular node and along the conduction system of the heart."
+    }
+  ]
+}

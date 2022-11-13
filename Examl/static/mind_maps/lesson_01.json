@@ -1,0 +1,80 @@
+[
+  {
+    "name": "lesson_01",
+    "type": "directory",
+    "children": [
+      {
+        "name": "Chapter 04",
+        "type": "directory",
+        "children": [
+          {
+            "name": "force",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 03",
+        "type": "directory",
+        "children": [
+          {
+            "name": "frictional",
+            "type": "file"
+          },
+          {
+            "name": "forces",
+            "type": "file"
+          },
+          {
+            "name": "surfaces",
+            "type": "file"
+          },
+          {
+            "name": "friction",
+            "type": "file"
+          },
+          {
+            "name": "force",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 02",
+        "type": "directory",
+        "children": [
+          {
+            "name": "photosynthesis",
+            "type": "file"
+          },
+          {
+            "name": "leaf",
+            "type": "file"
+          },
+          {
+            "name": "water",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 01",
+        "type": "directory",
+        "children": [
+          {
+            "name": "body",
+            "type": "file"
+          },
+          {
+            "name": "lipids",
+            "type": "file"
+          },
+          {
+            "name": "proteins",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  }
+]

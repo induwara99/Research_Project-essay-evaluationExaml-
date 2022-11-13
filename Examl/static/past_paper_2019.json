@@ -1,0 +1,313 @@
+{
+	"questions": [{
+			"question_number": 1,
+			"question": "01.  Liver is a",
+			"answers": [
+				"cell",
+				"tissue",
+				"organ",
+				"system"
+			],
+			"correct_answer": "organ",
+			"related_lesson": "Characteristics of organisms"
+		},
+		{
+			"question_number": 2,
+			"question": "02.  To maintain the balance of which following cycle is biological fixation important?",
+			"answers": [
+				"carbon cycle",
+				"nitrogen cycle",
+				"phosphorus cycle ",
+				"water cycle"
+			],
+			"correct_answer": "nitrogen cycle",
+			"related_lesson": "Biosphere"
+		}, {
+			"question_number": 3,
+			"question": "Which following quantity is a vector?",
+			"answers": [
+				"displacement",
+				"distance",
+				"pressure",
+				"work"
+			],
+			"correct_answer": "displacement",
+			"related_lesson": "Motion in a straight line"
+		}, {
+			"question_number": 4,
+			"question": "Which following molecule is composed of the highest number of atoms?",
+			"answers": [
+				"CH3CHO",
+				"CCl4",
+				"H2SO4",
+				"CO(NH2)2"
+			],
+			"correct_answer": "CO(NH2)2",
+			"related_lesson": "Structure of matter"
+		}, {
+			"question_number": 5,
+			"question": "Coordination of movements and equilibrium of the human body are maintained by the",
+			"answers": [
+				"cerebellum",
+				"cerebrum",
+				"medulla oblongata",
+				"spinal cord"
+			],
+			"correct_answer": "cerebellum",
+			"related_lesson": "biological processes in human body"
+		}, {
+			"question_number": 6,
+			"question": "Consider the following statements on various processes taking place in a plant. A - Plants emit carbon dioxide only during night. B - Plants emit only oxygen during the day time. C - Gaseous exchange in plant leaves mainly occurs through stomata, D - Gases entering the plant leaves diffuse into the cells through intercellular spaces,Of the statements A,B,C and D above,the true statements are,",
+			"answers": [
+				"only A and B",
+				"only A and D",
+				"only B and C",
+				"only C and D"
+			],
+			"correct_answer": "only C and D",
+			"related_lesson": "Photosynthesis"
+		}, {
+			"question_number": 7,
+			"question": "The acceleration due to gravity on the Earth’s surface is 10 ms-2, The acceleration due to gravity on the surface of the moon is 1/6 the acceleration due to gravity of the Earth. If the weight of a man on the Earth is 600N, how much is his weight on the moon?",
+			"answers": [
+				"60N",
+				"100N",
+				"360N",
+				"600N"
+			],
+			"correct_answer": "100N",
+			"related_lesson": "Motion in a straight line"
+		}, {
+			"question_number": 8,
+			"question": "The deficiency of which following vitamin causes anaemia?",
+			"answers": [
+				"vitamin A",
+				"vitamin B",
+				"vitamin E",
+				"vitamin K"
+			],
+			"correct_answer": "vitamin B",
+			"related_lesson": "Chemical basis of life"
+		}, {
+			"question_number": 9,
+			"question": "In which part of the female reproductive system does fertilization occur in human reproduction?",
+			"answers": [
+				"vagina",
+				"uterus",
+				"fallopian tube",
+				"ovaries"
+			],
+			"correct_answer": "fallopian tube",
+			"related_lesson": "Continuity of life"
+		}, {
+			"question_number": 10,
+			"question": ". What is the mass of glucose required to make 500cm3 of a glucose solution of concentration 1.0 mol dm-3? (Relative molecular mass of glucose = 180)",
+			"answers": [
+				"45g ",
+				"90g",
+				"180g",
+				"360g"
+			],
+			"correct_answer": "90g",
+			"related_lesson": "Mixtures"
+		}, {
+			"question_number": 11,
+			"question": "In which part of the alimentary canal is the enzyme lipase added to food?",
+			"answers": [
+				"duodenum",
+				"stomach",
+				"oesophagus",
+				"large intestine"
+			],
+			"correct_answer": "duodenum",
+			"related_lesson": "biological processes in human body"
+		}, {
+			"question_number": 12,
+			"question": "Consider the following substances. A - solid sodium chloride crystals B - molten sodium chloride C - aqueous sodium chloride solution Which of the above conduct electricity ? ",
+			"answers": [
+				"A and B only ",
+				"A and C only ",
+				"B and C only ",
+				"All A, B and C"
+			],
+			"correct_answer": "B and C only",
+			"related_lesson": "Chemical bounds"
+		}, {
+			"question_number": 13,
+			"question": "It was found that an aqueous solution of the compound HA contains H” ions, Av ions, OH ions as well as undissociated HA molecules. The pH value of this solution is less than 7. Which of the following statements is true about HA?",
+			"answers": [
+				"HA is a strong acid",
+				"HA is a weak acid",
+				"HA is a weak base",
+				"HA is an acidic salt"
+			],
+			"correct_answer": "HA is a weak acid",
+			"related_lesson": "Acids, bases and salts"
+		}, {
+			"question_number": 14,
+			"question": "The power supplied to the primary coil of a transformer of 100% efficiency is 200W. If the voltage across its secondary coil is 10V, what is the current flowing through the secondary coil?",
+			"answers": [
+				"10A",
+				"20A",
+				"40A",
+				"50A"
+			],
+			"correct_answer": "20A",
+			"related_lesson": "Electromagnetism and Electromagnetic Induction"
+		}, {
+			"question_number": 15,
+			"question": "Which polysaccharide contained in plant cells helps prevent constipation?",
+			"answers": [
+				"starch",
+				"glycogen",
+				"cellulose",
+				"lactose"
+			],
+			"correct_answer": "cellulose",
+			"related_lesson": "Chemical basis of life"
+		}, {
+			"question_number": 16,
+			"question": "What is the constituent mostly present in the urine of a healthy person?",
+			"answers": [
+				"water",
+				"urea",
+				"uric acid",
+				"salts"
+			],
+			"correct_answer": "water",
+			"related_lesson": "biological processes in human body"
+		}, {
+			"question_number": 17,
+			"question": "What is the polymer that contains carbon and hydrogen only as the constituent clements?",
+			"answers": [
+				"vulcanized rubber ",
+				"polythene",
+				"teflon",
+				"cellulose"
+			],
+			"correct_answer": "polythene",
+			"related_lesson": "Hydrocarbons and their derivatives"
+		}, {
+			"question_number": 18,
+			"question": "What is the equipment that works using the force exerted on a current carrying conductor placed in a magnetic field?",
+			"answers": [
+				"moving coil microphone ",
+				"electric bell",
+				"transformer",
+				"direct current motor"
+			],
+			"correct_answer": "direct current motor",
+			"related_lesson": "Electromagnetism and Electromagnetic Induction"
+		}, {
+			"question_number": 19,
+			"question": "Select the false statement from the following statements.",
+			"answers": [
+				"Fractional distillation is used to refine mineral oils",
+				"Steam distillation is used to extract cinnamon oil.",
+				"Solvent extraction’ is used to extract medicinal extracts and potions.",
+				"Chromatography is used to separate a mixture of volatile components."
+			],
+			"correct_answer": "Chromatography is used to separate a mixture of volatile components.",
+			"related_lesson": "Mixtures"
+		}, {
+			"question_number": 20,
+			"question": "There is a greater chance for a man swimming in the water with gas bubbles at the base of a water fall to drown. What is the reason for this?",
+			"answers": [
+				"increase in the upthrust exerted by water ",
+				"decrease in the upthrust exerted by water",
+				"dissolving of a greater amount of gas in water ",
+				"decrease in the temperature of water"
+			],
+			"correct_answer": "decrease in the upthrust exerted by water",
+			"related_lesson": "Hydrostatic pressure and its applications"
+		}, {
+			"question_number": 21,
+			"question": "When a sound wave emitted by a loudspeaker propagates through air its",
+			"answers": [
+				"frequency decreases",
+				"velocity decreases",
+				"wave length decreases",
+				"amplitude decreases"
+			],
+			"correct_answer": "amplitude decreases",
+			"related_lesson": "Waves and their applications"
+		}, {
+			"question_number": 22,
+			"question": "Why is limestone added to the blast furnace during iron extraction?",
+			"answers": [
+				"to reduce the iron ore to iron ",
+				"to increase the temperature in the blast furnace",
+				"to remove certain impurities in the iron ore",
+				"to decrease the melting point of iron"
+			],
+			"correct_answer": "to remove certain impurities in the iron ore",
+			"related_lesson": "Changes in matter"
+		}, {
+			"question_number": 23,
+			"question": "Which of the following has the greatest effect on ozone layer depletion?",
+			"answers": [
+				"CFC gases",
+				"NO2 gas ",
+				"CH4 gas ",
+				"CO2 gas"
+			],
+			"correct_answer": "CFC gases",
+			"related_lesson": "Biosphere"
+		}, {
+			"question_number": 24,
+			"question": "What is the true statement about the 20  10 Ne atom and the 21  11 Na+ ion?",
+			"answers": [
+				"The number of electrons in both is equal",
+				"The number of protons in both is equal",
+				"The number of neutrons in both is equal",
+				"The number of protons in both is greater than the number of neutrons"
+			],
+			"correct_answer": "The number of electrons in both is equal",
+			"related_lesson": "Structure of matter"
+		}, {
+			"question_number": 25,
+			"question": "Which following factor affects the pressure exerted by water on the bottom of a vessel filled with water to a certain height?",
+			"answers": [
+				"volume of water",
+				"shape of the vessel",
+				"area of the bottom of the vessel",
+				"vertical height of the water column"
+			],
+			"correct_answer": "vertical height of the water column",
+			"related_lesson": "Hydrostatic pressure and its applications"
+		}, {
+			"question_number": 26,
+			"question": "Which of the following cells are multi-nucleate?",
+			"answers": [
+				"red blood cells",
+				"skeletal muscle cells",
+				"white blood cells",
+				"cardiac muscle cells"
+			],
+			"correct_answer": "white blood cells",
+			"related_lesson": "biological processes in human body"
+		}, {
+			"question_number": 27,
+			"question": "Boiling and evaporation are the two ways by which liquid water moves into the air as water vapour. Of the following statements connected with them, which is false?",
+			"answers": [
+				"Temperature remains constant during boiling as well as during evaporation",
+				"Boiling is a visible process while evaporation is an invisible process",
+				"Speed of wind affects evaporation but does not affect boiling",
+				"Temperature of water remains constant during boiling while decreases during evaporation"
+			],
+			"correct_answer": "kg m-2 s-2",
+			"related_lesson": "unit"
+		}, {
+			"question_number": 28,
+			"question": "The aim of shortening the food mileage is to",
+			"answers": [
+				"direct people more to consume native food",
+				"get an opportunity to consume quality food",
+				"create a greater demand for the locally produced food",
+				"minimize the amount of fuel spent during transport of food"
+			],
+			"correct_answer": "minimize the amount of fuel spent during transport of food",
+			"related_lesson": "Biosphere"
+		}
+	]
+}

@@ -1,0 +1,280 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of the following is an example for a plant which does not produce seeds?",
+      "answers": [
+        "Cycas",
+        "Pinus",
+        "Salvinia",
+        "Blue water lily"
+      ],
+      "correct_answer": "Salvinia",
+      "related_lesson": "The world of life"
+    },
+    {
+      "question_number": 2,
+      "question": "The SI unit of force in fundamental units is?",
+      "answers": [
+        "kg m s-2",
+        "kg m s-1",
+        "kg m2 s-1",
+        "kg m-2 s-2"
+      ],
+      "correct_answer": "kg m s-2",
+      "related_lesson": "Newton's laws of motion"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following is a homogeneous mixture?",
+      "answers": [
+        "wheat flour + water ",
+        "ethyl alcohol + water",
+        "coconut oil + water ",
+        "clay + water"
+      ],
+      "correct_answer": "ethyl alcohol + water",
+      "related_lesson": "Mixtures"
+    },
+    {
+      "question_number": 4,
+      "question": "Of the following statements, which is false about a silicon npn junction transistor?",
+      "answers": [
+        "It can be used to amplify signals.",
+        "It can be used as a switch.",
+        "It can be used as a current amplifier",
+        "It can be used to rectify alternating voltages"
+      ],
+      "correct_answer": "It can be used to rectify alternating voltages",
+      "related_lesson": "Electronics"
+    },
+    {
+      "question_number": 5,
+      "question": "If an object is to stay in equilibrium under three forces,",
+      "answers": [
+        "the resultant force of two forces should be in the same direction as that of the remaining force.",
+        "the resultant force of the three forces should be zero.",
+        "the three forces should be coplanar.",
+        "the lines of action of the three forces should meet at the same point."
+      ],
+      "correct_answer": "the resultant force of the three forces should be zero.",
+      "related_lesson": "Equilibrium of forces"
+    },
+    {
+      "question_number": 6,
+      "question": "In the urine filtration process taking place in kidneys, which of the following is filtered into the glomerulus from blood?",
+      "answers": [
+        "blood cells",
+        "plasma proteins",
+        "glucose",
+        "platelets"
+      ],
+      "correct_answer": "glucose",
+      "related_lesson": "Biological process in human body"
+    },
+    {
+      "question_number": 7,
+      "question": "The typical cell is",
+      "answers": [
+        "the structural and functional unit of life.",
+        "the cell that gives origin to some other cell",
+        "the cell that can undergo division.",
+        "the constructed cell that contains all the organelles."
+      ],
+      "correct_answer": "the constructed cell that contains all the organelles.",
+      "related_lesson": "Structure and functions of the plant and animal cells"
+    },
+    {
+      "question_number": 8,
+      "question": "Which of the following equipments is based on the phenomenon of electromagnetic induction?",
+      "answers": [
+        "Direct current motor",
+        "Loudspeaker",
+        "Electric bell",
+        "Moving coil magnetic microphone"
+      ],
+      "correct_answer": "Moving coil magnetic microphone",
+      "related_lesson": "electromagnetic and electromagnetic induction"
+    },
+    {
+      "question_number": 9,
+      "question": "Consider the following statement about catalysts.A.–Catalyste increase as well as decrease reaction rates. B.–Though catalysts take part in the vhemical reation,the are not consumed during the reaction. C.A small amount of the catalyst is adequate for a lage amount of reactants.",
+      "answers": [
+        "Only A and B",
+        "Only B and C",
+        "Only A and C",
+        "All A, B and C"
+      ],
+      "correct_answer": "Only B and C",
+      "related_lesson": "Rate of reactions"
+    },
+    {
+      "question_number": 10,
+      "question": "Which of the following oxides does not take part in the extraction process of iron?",
+      "answers": [
+        "CaO",
+        "MgO",
+        "CO2",
+        "SiO2"
+      ],
+      "correct_answer": "MgO",
+      "related_lesson": "Changes in matter"
+    },
+    {
+      "question_number": 11,
+      "question": "What is the phentype ratio obtained, when two organisms with the genotypes Tt and tt were crossed?",
+      "answers": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "1:2:1"
+      ],
+      "correct_answer": "1:1",
+      "related_lesson": "Inheritance"
+    },
+    {
+      "question_number": 12,
+      "question": "Consider the following statements about the compounds, carbon dioxide and Sulphur dioxide. A– They are acidic oxides. B– They exist as gases under room temperature. C– They are colorless. Of the above, the true statements are,",
+      "answers": [
+        "Only A and B",
+        "Only B and C",
+        "Only A and C",
+        "All A, B and C"
+      ],
+      "correct_answer": "All A, B and C",
+      "related_lesson": "Structure of matter"
+    },
+    {
+      "question_number": 13,
+      "question": "Consider an instance where a convex lens is used to read a label with very small letters. Here, the label should be placed,",
+      "answers": [
+        "between the lens and its focus",
+        "on the focus of the lens",
+        "on a point which is away from the lens twice its focal length",
+        "on a point which is away from the lens more than twice its focal length"
+      ],
+      "correct_answer": "between the lens and its focus",
+      "related_lesson": "Geometric optics"
+    },
+    {
+      "question_number": 14,
+      "question": "Some features observed when an animal was examined are as follows: Has four pentadactyl limbs Has a glandular skin Has a broad mouth Cold— blooded This animal could be the ",
+      "answers": [
+        "otter",
+        "crocodile",
+        "tortoise",
+        "toad"
+      ],
+      "correct_answer": "toad",
+      "related_lesson": "The world of life"
+    },
+    {
+      "question_number": 15,
+      "question": "A tightly stoppered, half-filled bottle of soda water was taken out from a refrigerator and kept outside until it reaches the room temperature. When kept like this, the mole fraction of carbon dioxide,",
+      "answers": [
+        "increases in phases both A and B.",
+        "decreases in phases both A and B",
+        "increases in phase A; decreases in phase B",
+        "decreases in phase A; increases in phase B"
+      ],
+      "correct_answer": "kg m-2 s-2",
+      "related_lesson": "unit"
+    },
+    {
+      "question_number": 16,
+      "question": "In respiration of living organisms, oxygen gas and carbon dioxide gas exchange at the respiratory surface. Accordingly, the respiratory surface of the human is",
+      "answers": [
+        "nasal cavity",
+        "lungs",
+        "alveolar wall",
+        "alveolus"
+      ],
+      "correct_answer": "alveolar wall",
+      "related_lesson": "Biological process in human body"
+    },
+    {
+      "question_number": 17,
+      "question": "A small glass ball and a big iron ball were dropped on to a porcelain surface from the same height. The porcelain surface cracked at the point at which the iron ball hit it. No such crack was caused by the glass ball. Of the following, greatness of which quantity of the iron ball than that of the glass ball could be the reason for this?",
+      "answers": [
+        "velocity ",
+        "volume",
+        "momentum",
+        "acceleration"
+      ],
+      "correct_answer": "momentum",
+      "related_lesson": "Newton's laws of motion"
+    },
+    {
+      "question_number": 18,
+      "question": "The number of electrons and the number of neutrons in the ion indicated by the symbol 2311NA+ respectively are,",
+      "answers": [
+        "11 and 23",
+        "10 and 23",
+        "10 and 12",
+        "11 and 12"
+      ],
+      "correct_answer": "10 and 12",
+      "related_lesson": "Structure of matter"
+    },
+    {
+      "question_number": 19,
+      "question": "What characteristic given below should be studied to distinguish as living and non living the specimens; a fertilized egg, a piece of meat, a bean seed obtained before germination and a dry piece of a branch of a plant?",
+      "answers": [
+        "growth",
+        "respiration",
+        "reproduction",
+        "cellular organization"
+      ],
+      "correct_answer": "respiration",
+      "related_lesson": "characteristic of organisms"
+    },
+    {
+      "question_number": 20,
+      "question": "An electric lamp bulb of a motor car is labelled 12 V, 0.5 A. Consider the following statements about those values. A - When an electrical supply of 12 V is given across the bulb, the current flowing through it is 0.5 A. B - When the bulb operates normally, its power is 12× 0.5 W. C - The resistance of the bulb is 12 / 0.5 Ω Of the above, the correct statements are,",
+      "answers": [
+        "only A and B",
+        "only B and C",
+        "only A and C",
+        "all A, B and C"
+      ],
+      "correct_answer": "all A, B and C",
+      "related_lesson": "Power and energy of electric appliances"
+    },
+    {
+      "question_number": 21,
+      "question": "Some activities carried out after felling trees in a forest are given below. Among them, which one contributes most to increase the carbon dioxide percentage in the atmosphere in a short period of time?",
+      "answers": [
+        "Growing vegetable crops in the area ",
+        "Letting cut down parts decompose naturally",
+        "Using parts of timber for constructions ",
+        "Burning the parts cut down"
+      ],
+      "correct_answer": "Burning the parts cut down",
+      "related_lesson": "Biosphere"
+    },
+    {
+      "question_number": 22,
+      "question": "It has been planned to hold a conference in Sri Lanka in May/June 2019, on a convention/treaty dealing with regulations related to the trade of endangered plants and animals. By what name is that convention/treaty known?",
+      "answers": [
+        "Ramsar",
+        "Montreal",
+        "CITES",
+        "Reo"
+      ],
+      "correct_answer": "CITES",
+      "related_lesson": "Biosphere"
+    },
+    {
+      "question_number": 23,
+      "question": "Reduce, Reuse and Recycle are three, out of the principles used in waste/energy management. Which of the following is not a suitable example for “Reduce” given here?",
+      "answers": [
+        "Switching off unnecessary electric lamps",
+        "Eating all the food served for self",
+        "Closing the unnecessarily opened water taps",
+        "Refraining from using polythene"
+      ],
+      "correct_answer": "Refraining from using polythene",
+      "related_lesson": "Biosphere"
+    }
+  ]
+}

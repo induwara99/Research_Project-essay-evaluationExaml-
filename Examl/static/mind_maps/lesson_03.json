@@ -1,0 +1,120 @@
+[
+  {
+    "name": "lesson_03",
+    "type": "directory",
+    "children": [
+      {
+        "name": "Chapter 04",
+        "type": "directory",
+        "children": [
+          {
+            "name": "magnesium",
+            "type": "file"
+          },
+          {
+            "name": "sodium",
+            "type": "file"
+          },
+          {
+            "name": "iron",
+            "type": "file"
+          },
+          {
+            "name": "air",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 03",
+        "type": "directory",
+        "children": [
+          {
+            "name": "reproduction",
+            "type": "file"
+          },
+          {
+            "name": "plants",
+            "type": "file"
+          },
+          {
+            "name": "vegetative",
+            "type": "file"
+          },
+          {
+            "name": "sexual",
+            "type": "file"
+          },
+          {
+            "name": "propagation",
+            "type": "file"
+          },
+          {
+            "name": "offsprings",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 02",
+        "type": "directory",
+        "children": [
+          {
+            "name": "forces",
+            "type": "file"
+          },
+          {
+            "name": "two",
+            "type": "file"
+          },
+          {
+            "name": "equilibrium",
+            "type": "file"
+          },
+          {
+            "name": "force",
+            "type": "file"
+          },
+          {
+            "name": "object",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 01",
+        "type": "directory",
+        "children": [
+          {
+            "name": "atom",
+            "type": "file"
+          },
+          {
+            "name": "electrons",
+            "type": "file"
+          },
+          {
+            "name": "atoms",
+            "type": "file"
+          },
+          {
+            "name": "fig",
+            "type": "file"
+          },
+          {
+            "name": "molecule",
+            "type": "file"
+          },
+          {
+            "name": "configuration",
+            "type": "file"
+          },
+          {
+            "name": "bonds",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+The major part of the system is Artificial Intelligence and Machine Learning based mind maps generator.
+This will help the student to find sub lesson chapters deeply and more efficiently and generate mind maps
+relevant to the lectures more interactively that enhance students to memorize the lesson more efficiently.
+(example: when the student upload a lecture/lesson, this system will understand the content of that lecture/lesson and generate a mind map or short note related to it) 
+
+Specific Objectives 
+ 
+Enhance the students’ memorizing level and provide short notes relevant to their lessons with the help of Artificial Intelligence and Machine Learning based mind maps generator.
+•Identify and gather relevant sub lesson chapters deeply and more efficiently with help of web scraping, AI, and ML.
+•Generate the mind maps relevant to the lectures more interactively that enhance students to memorize the lesson more efficiently.
+•This makes complex ideas easier to understand and this helps students to remember and recall information.
+
+METHODOLOGY
+
+Students can upload lectures/lessons to the system.
+Then AI tool helps understand the content of the uploaded lecture and generate a related mind-map with the help of ontology mind map, semantic web and owl technologies.
+User can view the mind map and also it will be stored in a cloud storage. 

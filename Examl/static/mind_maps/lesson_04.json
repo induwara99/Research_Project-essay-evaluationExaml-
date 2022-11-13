@@ -1,0 +1,88 @@
+[
+  {
+    "name": "lesson_04",
+    "type": "directory",
+    "children": [
+      {
+        "name": "Chapter 04",
+        "type": "directory",
+        "children": [
+          {
+            "name": "inherited",
+            "type": "file"
+          },
+          {
+            "name": "characteristics",
+            "type": "file"
+          },
+          {
+            "name": "generation",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 03",
+        "type": "directory",
+        "children": [
+          {
+            "name": "electrons",
+            "type": "file"
+          },
+          {
+            "name": "current",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 02",
+        "type": "directory",
+        "children": [
+          {
+            "name": "energy",
+            "type": "file"
+          },
+          {
+            "name": "object",
+            "type": "file"
+          },
+          {
+            "name": "potential",
+            "type": "file"
+          },
+          {
+            "name": "kinetic",
+            "type": "file"
+          },
+          {
+            "name": "work",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 01",
+        "type": "directory",
+        "children": [
+          {
+            "name": "tissue",
+            "type": "file"
+          },
+          {
+            "name": "tissues",
+            "type": "file"
+          },
+          {
+            "name": "cells",
+            "type": "file"
+          },
+          {
+            "name": "plant",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  }
+]

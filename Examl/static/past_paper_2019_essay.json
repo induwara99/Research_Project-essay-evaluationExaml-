@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is the difference between chemical erosion and physical erosion?",
+      "correct_answer": "Removal of rock or soil as clastic sediment is referred to as physical or mechanical erosion; this contrasts with chemical erosion, where soil or rock material is removed from an area by dissolution. Eroded sediment or solutes may be transported just a few millimeters, or for thousands of kilometers."
+    },
+    {
+      "question_number": 2,
+      "question": "What is the structure of glucose?",
+      "correct_answer": "Glucose is a simple sugar with six carbon atoms and one aldehyde group. This monosaccharide has a chemical formula C 6 H 12 O 6. It is also known as dextrose. It is referred to as aldohexose as it contains 6 carbon atoms and an aldehyde group. It can open in two forms, open-chain, or ring structure."
+    }
+  ]
+}

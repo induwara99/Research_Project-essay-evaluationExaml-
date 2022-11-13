@@ -1,0 +1,281 @@
+{
+	"questions": [{
+			"question_number": 1,
+			"question": "To which of the following organizational level does the human heart belong?",
+			"answers": [
+				"cell",
+				"tissue",
+				"organ",
+				"system"
+			],
+			"correct_answer": "organ",
+			"related_lesson": "Characteristics of organisms"
+		},
+		{
+			"question_number": 2,
+			"question": "The hydrocarbons contained in LP gas as its major components are",
+			"answers": [
+				"methane and ethane",
+				"propane and butane",
+				"butane and pentane",
+				"propane and pentane"
+			],
+			"correct_answer": "propane and butane",
+			"related_lesson": "hydrocarbons and their derivatives"
+		},
+		{
+			"question_number": 3,
+			"question": "What is the unit of the amount of work? ",
+			"answers": [
+				"kgms-1 ",
+				"kgm s-2 ",
+				"kgm -1 s-1 ",
+				"kg m2s-2"
+			],
+			"correct_answer": "kg m2s-2",
+			"related_lesson": "Work, energy and power"
+		},
+		{
+			"question_number": 4,
+			"question": "Which of the following is not a characteristic of the cardiac muscle tissue?",
+			"answers": [
+				"cells being mononuclear ",
+				"occurrence of intercalated discs",
+				"cells being branched ",
+				"acting voluntarily"
+			],
+			"correct_answer": "acting voluntarily",
+			"related_lesson": "Living tissues"
+		},
+		{
+			"question_number": 5,
+			"question": "Which of the following quantity increases uniformly in an object moving with a constant acceleration?",
+			"answers": [
+				"distance",
+				"displacement",
+				"velocity",
+				"retardation"
+			],
+			"correct_answer": "velocity",
+			"related_lesson": "Motion in a straight line"
+		},
+		{
+			"question_number": 6,
+			"question": "Which property of water causes water to be used as a cooling agent to remove excessive heat generated in an automobile engine?",
+			"answers": [
+				"having a high specific heat capacity ",
+				"having a high boiling point",
+				"being a colorless liquid",
+				"having a high density"
+			],
+			"correct_answer": "Salvinia",
+			"related_lesson": "The world of life"
+		},
+		{
+			"question_number": 7,
+			"question": "In the process of digestion of food, bile necessary for the emulsification of lipids is produced in the",
+			"answers": [
+				"gall bladder",
+				"liver",
+				"duodenum",
+				"pancreas"
+			],
+			"correct_answer": "liver",
+			"related_lesson": "Biological processes in human body"
+		},
+		{
+			"question_number": 8,
+			"question": "What is the essential element for the production of thyroxine hormone in the thyroid gland?",
+			"answers": [
+				"sodium",
+				"phosphorus",
+				"calcium",
+				"iodine"
+			],
+			"correct_answer": "iodine",
+			"related_lesson": "chemical basis of life"
+		},
+		{
+			"question_number": 9,
+			"question": "How much is the mass of NaCl contained in 100 cm3 of a sodium chloride solution of concentration 1.0 mol dm-3? (Na = 23, Cl = 35.5)",
+			"answers": [
+				"585g",
+				"58.5g",
+				"5.85g",
+				"0.585g"
+			],
+			"correct_answer": "5.85g",
+			"related_lesson": "Mixtures"
+		},
+		{
+			"question_number": 10,
+			"question": "The image of a real object produced by a convex mirror is always",
+			"answers": [
+				"real and smaller than the object",
+				"real and larger than the object",
+				"virtual and smaller than the object",
+				"virtual and larger than the object"
+			],
+			"correct_answer": "virtual and smaller than the object",
+			"related_lesson": "Geometric optics"
+		},
+		{
+			"question_number": 11,
+			"question": "What is the increasing order of pH of four solutions of HCl, CH3COOH, NaOH and NH3 of equal concentration? ",
+			"answers": [
+				"HCl < CH3COOH < NaOH < NH3",
+				"HCI < CH3COOH < NH3< NaOH",
+				"CH3 COOH < HCl < NaOH < NH3 ",
+				"CH3COOH < HCI < NH3< NaOH"
+			],
+			"correct_answer": "HCI < CH3COOH < NH3< NaOH",
+			"related_lesson": "Acids, bases and salts"
+		},
+		{
+			"question_number": 12,
+			"question": "The chemical formula of the chemical fertilizer urea is CO(NH2)2. Select the correct statement about urea.",
+			"answers": [
+				"Urea possesses the properties of the constituent elements.",
+				"A molecule of urea has two carbon atoms.",
+				"A molecule of urea has four hydrogen atoms.",
+				"The total number of atoms in a urea molecule is seven."
+			],
+			"correct_answer": "A molecule of urea has four hydrogen atoms.",
+			"related_lesson": "Structure of matter"
+		},
+		{
+			"question_number": 13,
+			"question": "Which option contains only the components that are found in the glomerular filtrate but not in urine of a healthy person?",
+			"answers": [
+				"glucose, amino acids",
+				"water, glucose",
+				"urea, amino acids ",
+				"water, urea"
+			],
+			"correct_answer": "glucose, amino acids",
+			"related_lesson": "Biological processes in human body"
+		},
+		{
+			"question_number": 14,
+			"question": "A jack fruit of mass 10 kg is falling freely from a height of 5 m of a jack tree. What is the velocity acquired by the fruit when it touches the ground? (Acceleration due to gravity is 10 ms-2. Assume that the resistance of air is negligibly small.)",
+			"answers": [
+				"5ms-1",
+				"10ms-1",
+				"50ms-1",
+				"100 ms-1"
+			],
+			"correct_answer": "10ms-1",
+			"related_lesson": "Work, energy and power"
+		},
+		{
+			"question_number": 15,
+			"question": "Select the correct statement regarding the circulation of blood in humans.",
+			"answers": [
+				"Always arteries contain oxygenated blood",
+				"When circulated once through the body, blood goes twice through lungs",
+				"Left ventricle acts as the pump of systemic blood circulation",
+				"Always veins circulate blood away from the heart"
+			],
+			"correct_answer": "Left ventricle acts as the pump of systemic blood circulation",
+			"related_lesson": "Biological processes in human body"
+		},
+		{
+			"question_number": 16,
+			"question": "Consider the following organs. A - skin B - kidneys C - pancreas Of these, those that contribute to maintain homoeostasis of the body is / are ",
+			"answers": [
+				"only A",
+				"only A and B",
+				"only B and C",
+				"all A, B and C"
+			],
+			"correct_answer": "all A, B and C",
+			"related_lesson": "Biological processes in human body"
+		},
+		{
+			"question_number": 17,
+			"question": "Some information regarding an element are as follows.• Has several allotropic forms.•One allotropic form conducts electricity. This element is ",
+			"answers": [
+				"carbon",
+				"oxygen",
+				"sulphur",
+				"iron"
+			],
+			"correct_answer": "carbon",
+			"related_lesson": "Structure of matter"
+		},
+		{
+			"question_number": 18,
+			"question": ". Some functions of the human brain are given below. A - reception of senses B - maintaining the balance of the body C - controlling the rate of heart beat Of the above, cerebellum controls ",
+			"answers": [
+				"only A",
+				"only B",
+				"only A and B",
+				"only B and C"
+			],
+			"correct_answer": "only B",
+			"related_lesson": "Biological processes in human body"
+		},
+		{
+			"question_number": 19,
+			"question": "Consider the following statements. A - The rate of a reaction increases when the temperature increases. B - The kinetic energy of reactant particles increases when the temperature increases. Of these ",
+			"answers": [
+				"both statements A and B are true",
+				"statement A is true and statement B is false",
+				"both statements A and B are false",
+				"statement A is false and statement B is true"
+			],
+			"correct_answer": "both statements A and B are true",
+			"related_lesson": "Rate of reactions"
+		},
+		{
+			"question_number": 20,
+			"question": "Which of the following phenomena cannot be explained by the Archimedes principle?",
+			"answers": [
+				"a ship cruising in the sea sinking more when entering a river",
+				"a balloon filled with helium gas moving upwards through air",
+				"floating of sunk orange seeds in a glass of orange juice when dissolving sugar",
+				"lifting a large mass by a hydraulic jack by applying a small force"
+			],
+			"correct_answer": "lifting a large mass by a hydraulic jack by applying a small force",
+			"related_lesson": "Hydrostatic pressure and its applications"
+		},
+		{
+			"question_number": 21,
+			"question": "When thin iron wool is heated, it instantly burns. But though an iron nail is heated till red hot, it does not undergo a considerable change. What conclusion can be drawn from these observations?",
+			"answers": [
+				"Iron wool acts as a catalyst",
+				"Iron wool and iron nail undergo reactions different from each other",
+				"The composition of iron wool and iron nail is different from each other",
+				"The rate of a reaction depends on the physical nature of the reactants"
+			],
+			"correct_answer": "The rate of a reaction depends on the physical nature of the reactants",
+			"related_lesson": "Rate of reactions"
+		},
+		{
+			"question_number": 22,
+			"question": "In 2011, the number of elephants in Sri Lanka was 5879. What is the most suitable biospherical organizational level to denominate that number of elephants?",
+			"answers": [
+				"species",
+				"population",
+				"community",
+				"eco-system"
+			],
+			"correct_answer": "population",
+			"related_lesson": "Biosphere"
+		},
+		{
+			"question_number": 23,
+			"question": "Which of the following statements is false about electroplating of iron?",
+			"answers": [
+				"An aqueous solution of a compound of the metal that is electroplated should be the electrolyte.",
+				"The electrolyte should be in high concentration for quality electroplating.",
+				"Iron should be made the cathode of the electrolytic cell.",
+				"The current used should be a direct current."
+			],
+			"correct_answer": "The electrolyte should be in high concentration for quality electroplating.",
+			"related_lesson": "Electrochemistry"
+		}
+
+
+	]
+}
